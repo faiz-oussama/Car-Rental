@@ -1,1 +1,10 @@
+com\car\model\dao\GenericDAO.class
 com\car\App.class
+com\car\util\PropretiesReader.class
+com\car\entity\User.class
+com\car\model\dao\impl\CarDAO.class
+com\car\entity\Car.class
+com\car\model\dao\impl\OrderDAO.class
+com\car\entity\UserRole.class
+com\car\entity\Order.class
+com\car\model\dao\impl\UserDAO.class
